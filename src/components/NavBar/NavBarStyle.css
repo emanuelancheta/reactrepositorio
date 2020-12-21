@@ -1,0 +1,18 @@
+.horizontal-logo {
+    height: 40px;
+    width: 40px;
+}
+
+.nav-link {
+    font-size: 18px;
+    color: white;
+}
+
+.dropdown-item {
+    font-size: 14px;
+}
+
+.container-fluid{
+    color: #0171BB;
+}
+
